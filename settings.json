@@ -3,8 +3,8 @@
   "bot-account": {
     "username": "siurek",
     "password": "",
-    "type": "offline
-    "
+    "type": "online"
+    
   },
   "server": {
     "ip": "KLASAIV.aternos.me",
